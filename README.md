@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWstXvCrjt5kLFco6esyZc3MZJDRgozn3wgg&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR3gzYg05Zr8bpE4rjk-kEiTlseFuLhQ71pA&s)
+<img src="https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-technological-sense-geometric-line-simple-image_19419.jpg" alt="MasterHead" style="width: 100%; height: auto;"/>
 <h1 align="center">Hi 👋, I'm Uvanesh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
