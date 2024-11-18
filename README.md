@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **@gmail.com**
+- 📫 How to reach me **uvanesh7202@gmail.com**
 
 - ⚡ Fun fact **Writing code is like writing poetry… but with more semicolons and fewer rhymes.**
 
